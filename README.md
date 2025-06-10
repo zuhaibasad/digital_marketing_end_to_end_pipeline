@@ -566,8 +566,7 @@ I'm available for freelance data engineering projects. This portfolio demonstrat
 - **Apache Airflow** - Workflow orchestration and scheduling
 - **Data Quality Engineering** - Testing and monitoring frameworks
 
-**Contact**: [Your Email] | [LinkedIn Profile] | [Upwork Profile]
-
+**Contact**: zuhaibasad@gmail.com | [[LinkedIn Profile]](https://www.linkedin.com/in/zuhaibasad/) | https://upwork.com/freelancers/zuhaibasad
 ---
 
 ## 📄 License
